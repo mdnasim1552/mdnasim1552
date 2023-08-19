@@ -79,3 +79,11 @@ Native Android, Retrofit, Jetpack, JSON Parsing, HTTP Networking, Threads & Para
 - [Python (Basic)](https://www.hackerrank.com/certificates/5ec1372f92a3)
 
 Feel free to explore my GitHub repositories for a closer look at my projects and coding skills. If you'd like to collaborate or discuss technology, please don't hesitate to get in touch!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnasim1552)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnasim1552&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/mdnasim1552)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdnasim1552)  
