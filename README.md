@@ -50,15 +50,15 @@ Hello! I am a passionate software professional with a strong background in full-
 
 ### Programming Languages
 
-C, C++, PHP, JavaScript, Python, Java, C#
+C, C++, PHP, JavaScript, Python, Java, C#, VB, jQuery
 
 ### Web Technologies
 
-HTML, CSS, Bootstrap, JavaScript, jQuery, ASP.NET (MVC, Razor page, Core, Web form)
+HTML, CSS, Bootstrap, JavaScript, jQuery, ASP.NET (MVC, Razor page, Core, Web form), Telerik, kendo UI
 
 ### Databases
 
-MS SQL Server, SSIS, ETL, Dapper, Entity Framework, Firebase database, SQLite
+MS SQL Server, SSIS, ETL, Dapper, Entity Framework, Firebase database, SQLite, Dapper.
 
 ### Source Control
 
