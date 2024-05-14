@@ -14,8 +14,14 @@ Contact:
 Hello! I am a passionate software professional with a strong background in full-stack web development and Android app development. With experience in ERP systems, web applications, and mobile apps, I thrive in creating efficient solutions that align with business goals. My commitment to continuous learning is reflected in my diverse skill set and a collection of certifications in various technologies.
 
 ## Professional Experience
+### Software Developer in HD Clinical Asia (05-Feb-2024 to Present):
 
-### Senior Software Executive at Pinovation Tech Ltd.
+- Develop and enhance clinical software solutions, with a focus on Solus Endoscopy. 
+- Troubleshoot and resolve bugs with optimized solutions, ensuring smooth functionality. 
+- Streamline operations by automating manual tasks in response to client-raised tickets. 
+- Drive innovation by implementing new features to meet evolving client needs and industry standards.
+  
+### Senior Software Executive at Pinovation Tech Ltd (15-Mar-2023 to 04-Feb-2024):
 
 - ERP software development using ASP.NET web forms.
 - Resolving bugs and implementing new functionalities for clients.
@@ -24,7 +30,7 @@ Hello! I am a passionate software professional with a strong background in full-
 - Creating custom reports for clients using RDLC and Crystal Reports.
 - Deployment and management of web applications on real IP.
 
-### Associate Software Developer at IQVIA
+### Associate Software Developer at IQVIA (18-Oct-2021 to 31-Jan-2023):
 
 - Developing web applications using ASP.NET MVC and MS SQL Server.
 - Debugging and resolving bugs in .NET projects.
