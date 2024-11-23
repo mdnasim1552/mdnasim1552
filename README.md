@@ -50,11 +50,11 @@ Hello! I am a passionate software professional with a strong background in full-
 
 ### Programming Languages
 
-C, C++, PHP, JavaScript, Python, Java, C#, VB, jQuery
+C, C++, PHP, JavaScript, Python, Java, C#, VB, jQuery, TypeScript
 
 ### Web Technologies
 
-HTML, CSS, Bootstrap, JavaScript, jQuery, ASP.NET (MVC, Razor page, Core, Web form), Telerik, kendo UI
+HTML, CSS, Bootstrap, Angular, jQuery, ASP.NET (MVC, Razor page, Core, Web API, Web form), Telerik, kendo UI
 
 ### Databases
 
