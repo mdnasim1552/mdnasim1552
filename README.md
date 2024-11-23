@@ -40,8 +40,9 @@ Hello! I am a passionate software professional with a strong background in full-
 - Validating datasets through manual and automatic testing.
 
 ## Academic & Professional Projects
-
-- [Real Estate ERP Project](https://github.com/mdnasim1552/PTLRealEstateERP) (C#, ASP.NET, MS SQL)
+- [Solus Endoscopy Ecosystem](https://github.com/mdnasim1552/UnisoftERS) (VB, jQuery, Telerik UI, ASP.NET Web form, MSSQL)
+- [Inventory Management](https://github.com/mdnasim1552/Inventory) (C#,jQyery, ASP.NET Core MVC, MSSQL)
+- [Real Estate ERP Project](https://github.com/mdnasim1552/PTLRealEstateERP) (C#, jQyery, ASP.NET, MSSQL)
 - [E-Commerce Mobile Apps](https://github.com/mdnasim1552/eCommerce-Apps) (JAVA, Android, Firebase)
 - [News Portal Mobile Apps](https://github.com/mdnasim1552/NewsAPI) (JAVA, Android, Retrofit)
 - [Data Mining Project](https://github.com/mdnasim1552/Data-mining) (Python, Google Colab)
